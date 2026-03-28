@@ -8,6 +8,7 @@ package flc.model;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Lesson {
     private static final int MAX_CAPACITY = 4;
 

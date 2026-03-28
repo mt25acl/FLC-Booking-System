@@ -32,3 +32,4 @@ public class Booking {
     public String toString() {
         return "Booking #" + bookingId + " | " + member.getName() + " | " + lesson;
     }
+}

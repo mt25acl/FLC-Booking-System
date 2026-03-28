@@ -8,6 +8,8 @@ package flc.model;
  *
  * @author Devar
  */
+
+
 public class Booking {
     private static int counter = 1;
     private final int bookingId;
